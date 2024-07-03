@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chirag mali\\source\\repos\\Healthcare_Informatics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DA2947-8C9D-48EB-9DF9-26EFEE834C92}|Healthcare_Informatics\\Healthcare_Informatics.csproj|C:\\Users\\chirag mali\\source\\repos\\Healthcare_Informatics\\healthcare_informatics\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E8DA2947-8C9D-48EB-9DF9-26EFEE834C92}|Healthcare_Informatics\\Healthcare_Informatics.csproj|solutionrelative:healthcare_informatics\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DA2947-8C9D-48EB-9DF9-26EFEE834C92}|Healthcare_Informatics\\Healthcare_Informatics.csproj|c:\\users\\chirag mali\\source\\repos\\healthcare_informatics\\healthcare_informatics\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DA2947-8C9D-48EB-9DF9-26EFEE834C92}|Healthcare_Informatics\\Healthcare_Informatics.csproj|solutionrelative:healthcare_informatics\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DA2947-8C9D-48EB-9DF9-26EFEE834C92}|Healthcare_Informatics\\Healthcare_Informatics.csproj|C:\\Users\\chirag mali\\source\\repos\\Healthcare_Informatics\\healthcare_informatics\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E8DA2947-8C9D-48EB-9DF9-26EFEE834C92}|Healthcare_Informatics\\Healthcare_Informatics.csproj|solutionrelative:healthcare_informatics\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DA2947-8C9D-48EB-9DF9-26EFEE834C92}|Healthcare_Informatics\\Healthcare_Informatics.csproj|C:\\Users\\chirag mali\\source\\repos\\Healthcare_Informatics\\healthcare_informatics\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{E8DA2947-8C9D-48EB-9DF9-26EFEE834C92}|Healthcare_Informatics\\Healthcare_Informatics.csproj|solutionrelative:healthcare_informatics\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DA2947-8C9D-48EB-9DF9-26EFEE834C92}|Healthcare_Informatics\\Healthcare_Informatics.csproj|C:\\Users\\chirag mali\\source\\repos\\Healthcare_Informatics\\healthcare_informatics\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E8DA2947-8C9D-48EB-9DF9-26EFEE834C92}|Healthcare_Informatics\\Healthcare_Informatics.csproj|solutionrelative:healthcare_informatics\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DA2947-8C9D-48EB-9DF9-26EFEE834C92}|Healthcare_Informatics\\Healthcare_Informatics.csproj|C:\\Users\\chirag mali\\source\\repos\\Healthcare_Informatics\\healthcare_informatics\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DA2947-8C9D-48EB-9DF9-26EFEE834C92}|Healthcare_Informatics\\Healthcare_Informatics.csproj|solutionrelative:healthcare_informatics\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DA2947-8C9D-48EB-9DF9-26EFEE834C92}|Healthcare_Informatics\\Healthcare_Informatics.csproj|C:\\Users\\chirag mali\\source\\repos\\Healthcare_Informatics\\healthcare_informatics\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E8DA2947-8C9D-48EB-9DF9-26EFEE834C92}|Healthcare_Informatics\\Healthcare_Informatics.csproj|solutionrelative:healthcare_informatics\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DA2947-8C9D-48EB-9DF9-26EFEE834C92}|Healthcare_Informatics\\Healthcare_Informatics.csproj|C:\\Users\\chirag mali\\source\\repos\\Healthcare_Informatics\\healthcare_informatics\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DA2947-8C9D-48EB-9DF9-26EFEE834C92}|Healthcare_Informatics\\Healthcare_Informatics.csproj|solutionrelative:healthcare_informatics\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DA2947-8C9D-48EB-9DF9-26EFEE834C92}|Healthcare_Informatics\\Healthcare_Informatics.csproj|C:\\Users\\chirag mali\\source\\repos\\Healthcare_Informatics\\healthcare_informatics\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DA2947-8C9D-48EB-9DF9-26EFEE834C92}|Healthcare_Informatics\\Healthcare_Informatics.csproj|solutionrelative:healthcare_informatics\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Healthcare_Informatics\\Healthcare_Informatics\\Contact.aspx",
+              "RelativeDocumentMoniker": "Healthcare_Informatics\\Contact.aspx",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Healthcare_Informatics\\Healthcare_Informatics\\Contact.aspx",
+              "RelativeToolTip": "Healthcare_Informatics\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-23T09:23:06.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Healthcare_Informatics\\Healthcare_Informatics\\About.aspx",
+              "RelativeDocumentMoniker": "Healthcare_Informatics\\About.aspx",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Healthcare_Informatics\\Healthcare_Informatics\\About.aspx",
+              "RelativeToolTip": "Healthcare_Informatics\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-23T09:19:54.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Healthcare_Informatics\\Healthcare_Informatics\\Default.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Healthcare_Informatics\\Default.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Healthcare_Informatics\\Healthcare_Informatics\\Default.aspx.designer.cs",
+              "RelativeToolTip": "Healthcare_Informatics\\Default.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:28:07.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Healthcare_Informatics\\Healthcare_Informatics\\Site.Master.cs",
+              "RelativeDocumentMoniker": "Healthcare_Informatics\\Site.Master.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Healthcare_Informatics\\Healthcare_Informatics\\Site.Master.cs",
+              "RelativeToolTip": "Healthcare_Informatics\\Site.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T03:53:51.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Healthcare_Informatics\\Healthcare_Informatics\\Site.Master",
+              "RelativeDocumentMoniker": "Healthcare_Informatics\\Site.Master",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Healthcare_Informatics\\Healthcare_Informatics\\Site.Master",
+              "RelativeToolTip": "Healthcare_Informatics\\Site.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-23T03:53:16.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Healthcare_Informatics\\Healthcare_Informatics\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Healthcare_Informatics\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Healthcare_Informatics\\Healthcare_Informatics\\Global.asax.cs",
+              "RelativeToolTip": "Healthcare_Informatics\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T20:39:25.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Healthcare_Informatics\\Healthcare_Informatics\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Healthcare_Informatics\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Healthcare_Informatics\\Healthcare_Informatics\\Default.aspx.cs",
+              "RelativeToolTip": "Healthcare_Informatics\\Default.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T20:16:41.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Healthcare_Informatics\\Healthcare_Informatics\\Web.config",
+              "RelativeDocumentMoniker": "Healthcare_Informatics\\Web.config",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Healthcare_Informatics\\Healthcare_Informatics\\Web.config",
+              "RelativeToolTip": "Healthcare_Informatics\\Web.config",
+              "ViewState": "AQIAACUAAAAANDMzMzMLwC4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-22T20:07:22.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\chirag mali\\source\\repos\\Healthcare_Informatics\\Healthcare_Informatics\\Default.aspx",
+              "RelativeDocumentMoniker": "Healthcare_Informatics\\Default.aspx",
+              "ToolTip": "C:\\Users\\chirag mali\\source\\repos\\Healthcare_Informatics\\Healthcare_Informatics\\Default.aspx",
+              "RelativeToolTip": "Healthcare_Informatics\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-22T20:07:15.88Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
